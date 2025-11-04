@@ -37,6 +37,55 @@ The KPI table consolidates the most essential performance metrics for the retail
 ## Problem Statement Solved
 The Blinkit Sales Analysis Dashboard answers several business questions, providing in-depth insights into key performance areas:
 
-# 1.KPIs
-Metrics Covered: Total Sales, Average Sales, No.of Items, Average Ratings
+1. **KPIs** 
+Metrics Covered: Total Sales, Average Sales, Number of Items, Average Ratings.
+
+![KPIs](images/kpi.png)  
+
+2. **Total Sales by Fat Content**  
+Compare sales performance between Regular and Low Fat products.
+
+![Total Sales by Fat Content](images/total_sales_by_fat_content.png)  
+
+3. **Total Sales by Item Type**  
+Identify top-selling product categories.
+
+![Total Sales by Item Type](images/total_sales_by_item_type.png)  
+
+4. **Fat Content by Outlet Avg Sales**  
+Understand which outlet types perform best for each fat content.
+ 
+![Fat Content by Outlet Avg Sales](images/fat_content_by_outlet_avg_sales.png)  
+
+5. **Total Sales by Outlet Establishment**  
+Track sales trends based on outlet year or establishment.
+
+![Total Sales by Outlet Establishment](images/total_Sales_by_outlet_establishment.png)  
+
+6. **Number of Items by Outlet Location**  
+See item distribution across different locations.
+  
+![Number of Items by Outlet Location](images/noofitems_by_outlet_location.png)  
+
+7. **Avg Rating by Outlet Size**  
+Evaluate customer satisfaction by store size.
+ 
+![Avg Rating by Outlet Size](images/avg_rating_by_outlet_size.png)  
+
+8. **All Metrics by Outlet Type**  
+Consolidated view of sales, items, and ratings across outlet types.
+ 
+![All Metrics by Outlet Type](images/all_metrices_by_outlet_type.png)  
+
+---
+
+## Snapshot of the Dashboard
+A complete view of the Dynamic Retail Dashboard, showcasing all key metrics and visualizations in one interactive interface.
+![dashboard](images/dashboard.png) 
+
+---
+## Conclusion
+The Blinkit Sales Analysis Dashboard is a powerful tool for retail decision-making, offering a comprehensive view of sales performance across products, outlets, and customer ratings. By aggregating and visualizing key metrics such as Total Sales, Average Sales, Number of Items, and Customer Ratings, the dashboard enables business analysts and managers to quickly identify trends, monitor performance, and make data-driven decisions.
+
+Through its interactive charts and KPI summaries, stakeholders can analyze sales by fat content, item type, outlet characteristics, and location, allowing for better inventory planning, marketing strategies, and operational improvements. Overall, this dashboard enhances retail insights, improves strategic planning, and supports the optimization of Blinkit’s business operations.
 
