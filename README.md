@@ -65,7 +65,7 @@ Track sales trends based on outlet year or establishment.
 6. **Number of Items by Outlet Location**  
 See item distribution across different locations.
   
-![Number of Items by Outlet Location](images/noofitems_by_outlet_location.png)  
+![Number of Items by Outlet Location](images/outlet_loc.png)  
 
 7. **Avg Rating by Outlet Size**  
 Evaluate customer satisfaction by store size.
@@ -81,7 +81,7 @@ Consolidated view of sales, items, and ratings across outlet types.
 
 ## Snapshot of the Dashboard
 A complete view of the Dynamic Retail Dashboard, showcasing all key metrics and visualizations in one interactive interface.
-![dashboard](images/dashboard.png) 
+![dashboard](images/dash.png) 
 
 ---
 ## Conclusion
